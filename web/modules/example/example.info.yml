@@ -1,0 +1,5 @@
+name: Your first Hello World module.
+type: module
+description: 'This is your first module.'
+package: Custom
+core: 8.x

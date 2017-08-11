@@ -1,0 +1,8 @@
+
+mytest.my_test_controller_hello:
+  path: '/hoge'
+  defaults:
+    _controller: '\Drupal\mytest\Controller\MyTestController::hello'
+    _title: 'my'
+  requirements:
+    _permission: 'access content'

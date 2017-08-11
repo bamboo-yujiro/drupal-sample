@@ -1,0 +1,5 @@
+<?php
+
+function example_update_8301(&$sandbox){
+  print 'OK';
+}
